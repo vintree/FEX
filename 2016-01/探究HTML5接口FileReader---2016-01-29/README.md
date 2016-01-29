@@ -95,7 +95,7 @@ reader.abort(fileNode.files[0]);
 	
 ```
 readAsBinaryString
-()
+![]()
 
 
 
