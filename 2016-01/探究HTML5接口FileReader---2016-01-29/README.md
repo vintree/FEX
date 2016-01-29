@@ -45,7 +45,7 @@ fileChange(e) {
 
 ```
 
-#####支线任务3
+#####支线任务4
 我们需要把这个接口实例化
 
 ```
@@ -63,7 +63,7 @@ fileChange(e) {
 
 ```
 
-#####支线任务4
+#####支线任务5
 我再使用FileReader方法
 
 FileReader提供了4个方法
@@ -95,12 +95,22 @@ reader.abort(fileNode.files[0]);
 	
 ```
 readAsBinaryString
-![]()
+![](https://raw.githubusercontent.com/wuguzi/FEX/master/2016-01/%E6%8E%A2%E7%A9%B6HTML5%E6%8E%A5%E5%8F%A3FileReader---2016-01-29/img/readAsBinaryString.png)
+
+readAsText
+![](https://raw.githubusercontent.com/wuguzi/FEX/master/2016-01/%E6%8E%A2%E7%A9%B6HTML5%E6%8E%A5%E5%8F%A3FileReader---2016-01-29/img/readAsText.png)
+
+readAsDataURL
+![](https://raw.githubusercontent.com/wuguzi/FEX/master/2016-01/%E6%8E%A2%E7%A9%B6HTML5%E6%8E%A5%E5%8F%A3FileReader---2016-01-29/img/readAsDataURL.png)
+
+效果
+![](https://raw.githubusercontent.com/wuguzi/FEX/master/2016-01/%E6%8E%A2%E7%A9%B6HTML5%E6%8E%A5%E5%8F%A3FileReader---2016-01-29/img/result.png)
 
 
 
 
-#####支线任务5
+
+#####支线任务6
 选择了方法后，需要接受数据，数据需要通过事件来获取，获取后放置img标签中
 
 FileReader提供了6个监听事件
@@ -157,31 +167,4 @@ reader.onloadend = function(e) {
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 上面的例子可以很地利用FileReader这个接口，选择图片，并显示预览！

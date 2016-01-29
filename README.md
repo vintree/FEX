@@ -18,6 +18,8 @@
 ### 华丽时间轴
 
 #### 2016-01
+[「HTML5」探究HTML5接口FileReader---2016-01-29](https://github.com/wuguzi/FEX/tree/master/2016-01/%E6%8E%A2%E7%A9%B6HTML5%E6%8E%A5%E5%8F%A3FileReader---2016-01-29)
+
 [「JS」深入理解变量与函数执行原理---2016.01.27](https://github.com/wuguzi/FEX/tree/master/2016-01/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86---2016.01.27)
 
 [「JS」深入理解W3C标准冒泡和捕获原理---2016-01-27](https://github.com/wuguzi/FEX/tree/master/2016-01/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3W3C%E6%A0%87%E5%87%86%E5%86%92%E6%B3%A1%E5%92%8C%E6%8D%95%E8%8E%B7%E5%8E%9F%E7%90%86---2016-01-27)
