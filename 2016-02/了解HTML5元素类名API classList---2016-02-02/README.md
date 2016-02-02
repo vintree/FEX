@@ -66,6 +66,7 @@ document.querySelector('#div').classList.remove('active');
 
 ```
 > 返回undefined，所以不能连续操作
+
 #####支线任务3
 查询
 
