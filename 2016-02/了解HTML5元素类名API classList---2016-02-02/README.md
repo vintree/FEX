@@ -6,6 +6,18 @@
 >
 > 我们先对比一下，然后详细分析
 
+
+<table>
+	<tr>
+		<td>功能</td>
+	</tr>
+	<tr>
+		<td>功能</td>
+	</tr>
+
+</table>
+
+
 功能 | jQuery | classList
 ----|----
 添加 | addClass | add
