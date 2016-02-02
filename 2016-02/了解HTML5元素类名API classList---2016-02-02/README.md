@@ -10,21 +10,36 @@
 <table>
 	<tr>
 		<td>功能</td>
+		<td>jQuery</td>
+		<td>classList</td>
 	</tr>
 	<tr>
-		<td>功能</td>
+		<td>添加</td>
+		<td>addClass</td>
+		<td>add</td>
 	</tr>
 
+	<tr>
+		<td>删除</td>
+		<td>removeClass</td>
+		<td>remove</td>
+	</tr>
+	<tr>
+		<td>查询</td>
+		<td>hasClass</td>
+		<td>contains</td>
+	</tr>
+	<tr>
+		<td>切换</td>
+		<td>toggleClass</td>
+		<td>toggle</td>
+	</tr>
+	<tr>
+		<td>索引</td>
+		<td>---</td>
+		<td>item</td>
+	</tr>
 </table>
-
-
-功能 | jQuery | classList
-----|----
-添加 | addClass | add
-删除 | removeClass | remove
-查询 | hasClass | contains
-切换 | toggleClass | toggle
-索引 | --- | item
 
 #####支线任务1
 添加
