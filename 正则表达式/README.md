@@ -75,8 +75,6 @@
  
 <hr/>
 
-
-
 #### 正则表达式基础篇
 > * search --- 查询
 > 	* (abcdef).search('a')
