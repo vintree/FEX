@@ -151,7 +151,7 @@ alert( str.match(re) );
 #### 过滤HTML标签
 ```
 var str = '';
-var re = /<[!<>]+>/;
+var re = /<[^<>]+>/;
 alert( str.replace(re, '') )
 
 ```
