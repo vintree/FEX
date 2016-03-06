@@ -2,7 +2,7 @@
 
 > 在web做事，都要瞻前顾后做开发，不能大手大脚，看似拙计，但里面有不少门道
 
-####img和background
+####img和background对比
 > 在web端，放置图片有两种方式：
 > 
 >	1. 「css」background
@@ -13,10 +13,10 @@
 先看两幅图：
 
 webkit策略
-![]('https://pic3.zhimg.com/b2b7c07bd7f5af231cdeaa0c3804a686_b.png')
+![](https://github.com/wuguzi/FEX/blob/master/web%E4%BC%98%E5%8C%96/img/backgroundOrimg/webkitflow.png?raw=true)
 
 Gecko策略
-![]('https://pic3.zhimg.com/b2b7c07bd7f5af231cdeaa0c3804a686_b.png')
+![](https://github.com/wuguzi/FEX/blob/master/web%E4%BC%98%E5%8C%96/img/backgroundOrimg/image008.jpg?raw=true)
 
 从两个内核可以看出，dom和css同时准备好，再进行下一步，以图片为主的页面，采用img方案，会加长html解析，从而推迟了css的解析工作，实际表相空白时间/无样式时间加上；
 
