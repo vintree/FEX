@@ -251,7 +251,3 @@ document.getElementById('child').addEventListener('click', function(e) {
 3. 捕获机制：本身作为第一个执行参考对象，从本身开始向下传递；
 4. 冒泡机制：从最底层开始向上传递，直至到达本身；
 5. stopPropagation方法不是大家说的阻止冒泡，而是阻止传递（捕获 + 冒泡）；
-
-
-`处女贴！如有错误望其矫正`
-
