@@ -122,7 +122,7 @@ document.getElementById('child').addEventListener('click', function(e) {
 
 前提：如果有stopPropagation方法，均放在console方法后面；
 
-有一个假设：
+有一个假设:
 
 1. 因为stopPropagation是在console后面执行，所以无论何种情况至少出现一个结果；
 2. 有4种策略(true + stopPropagation)、(false + stopPropagation)、(true)、(false)，也就是说父容器和子容器的排序有16种；
