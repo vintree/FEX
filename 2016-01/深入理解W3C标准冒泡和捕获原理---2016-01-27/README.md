@@ -1,4 +1,4 @@
-#### 深入理解W3C标准冒泡和捕获原理
+#### 深入理解W3C标准冒泡和捕获原理以及stopPropagation
 
 > 在前端开发时，项目经常使用jQuery、zepto作为快速开发的基础库，用基础库封装的事件，我们知道这两个基础库都是冒泡机制的事件。
 >
@@ -101,7 +101,7 @@ document.getElementById('child').addEventListener('click', function(e) {
 
 #### 总结
 
-##### 研究
+##### 规律
 | child\parent | true(捕获) | false(冒泡) |
 | ------------ | ------------- | ------------ |
 | true(捕获)  | parent child  | child parent |
