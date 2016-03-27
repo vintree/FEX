@@ -5,20 +5,19 @@
 ##### 让我们荡起双桨吧！
 
 
-> 这不是百度FEX，这只是一个基于前端的分享博文而已，宗旨是：行于前端，而不止于此
+> 这不是百度FEX，这只是一个基于前端的分享博文而已，宗旨是：行前端，而不止此
 > 
 > 路漫漫其修远兮，吾将上下而求索
 > 
 > 如有错误请大牛纠正！
 > 
-> 邮箱 wuguzix@foxmail.com
+> 邮箱 puxiao.wh@hotmail.com
 > 
 > 知乎私信 https://www.zhihu.com/people/wuguzi
 
 ### 特别篇
 
-#### web优化合集
-
+#### [web优化合集(未完成)](https://github.com/wuguzi/FEX/tree/master/web%E4%BC%98%E5%8C%96)
 
 ### 华丽时间轴
 
