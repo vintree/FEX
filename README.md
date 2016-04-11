@@ -21,6 +21,9 @@
 
 ### 华丽时间轴
 
+#### 2016-04
+[「请求」协同开发新思路](https://github.com/wuguzi/FEX/tree/master/2016-04/%E3%80%8C%E8%AF%B7%E6%B1%82%E3%80%8D%E5%8D%8F%E5%90%8C%E5%BC%80%E5%8F%91%E6%96%B0%E6%80%9D%E8%B7%AF)
+
 #### 2016-02
 [了解HTML5元素类名API classList---2016-02-02](https://github.com/wuguzi/FEX/tree/master/2016-02/%E4%BA%86%E8%A7%A3HTML5%E5%85%83%E7%B4%A0%E7%B1%BB%E5%90%8DAPI%20classList---2016-02-02)
 
