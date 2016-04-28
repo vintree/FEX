@@ -6,13 +6,13 @@
 
 
 > 这不是百度FEX，这只是一个基于前端的分享博文而已，宗旨是：行前端，而不止此
-> 
+>
 > 路漫漫其修远兮，吾将上下而求索
-> 
+>
 > 如有错误请大牛纠正！
-> 
+>
 > 邮箱 puxiao.wh@hotmail.com
-> 
+>
 > 知乎私信 https://www.zhihu.com/people/wuguzi
 
 ### 特别篇
@@ -22,6 +22,8 @@
 ### 华丽时间轴
 
 #### 2016-04
+[放大图片滑动组件](https://github.com/wuguzi/FEX/blob/master/2016-04/%E6%94%BE%E5%A4%A7%E5%9B%BE%E7%89%87%E6%BB%91%E5%8A%A8%E7%BB%84%E4%BB%B6.md)
+
 [「请求」协同开发新思路](https://github.com/wuguzi/FEX/tree/master/2016-04/%E3%80%8C%E8%AF%B7%E6%B1%82%E3%80%8D%E5%8D%8F%E5%90%8C%E5%BC%80%E5%8F%91%E6%96%B0%E6%80%9D%E8%B7%AF)
 
 #### 2016-02
