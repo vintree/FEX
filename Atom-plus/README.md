@@ -22,3 +22,9 @@
 
 ### Color Picker「颜色选择器」
 > 在编辑器里面挑选颜色。通过右键选择 Color picker ，或者 cmd + shift + c/ctrl + alt + c 快捷键调出颜色选择面板。支持 HEX, HEXA, RGB, RGBA, HSL, HSLA 形式指定的颜色值。
+
+### jshint「JavaScript验证」
+
+### csslint「css验证」
+
+### file-icons「显示文件类型对应的图标」
